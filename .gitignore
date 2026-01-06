@@ -1,0 +1,6 @@
+.idea
+.venv
+src
+target
+pom.xml
+__pycache__
